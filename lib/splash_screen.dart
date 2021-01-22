@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:cat_vs_dog/screens/home.dart';
+import 'package:catvsdog/screens/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:splashscreen/splashscreen.dart';

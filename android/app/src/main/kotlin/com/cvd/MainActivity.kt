@@ -1,4 +1,4 @@
-package com.cvd
+package com.catvsdog
 
 import io.flutter.embedding.android.FlutterActivity
 

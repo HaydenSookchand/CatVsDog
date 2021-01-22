@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:cat_vs_dog/service/image_classify_service.dart';
+import 'package:catvsdog/service/image_classify_service.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
